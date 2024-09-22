@@ -6,6 +6,8 @@ An interface created for the So Yummy application, in which, after a short regis
 
 Open a terminal. Once you are in the client folder, type in the "npm i" command. And after downloading - "npm start" After that, the application should work!
 
-You can see the project work here - https://github.com/hvoarang/so-yummy-react-fnt
+You can see the project work here
 
-Backend at https://github.com/hvoarang/so-yummy-React-back
+# fnt - https://github.com/hvoarang/so-yummy-react-fnt
+
+# back - https://github.com/hvoarang/so-yummy-React-back
