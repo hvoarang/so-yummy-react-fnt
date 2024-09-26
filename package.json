@@ -1,7 +1,7 @@
 {
   "name": "so-yummy-fnt",
   "version": "0.1.0",
-  "homepage": "https://hvoarang.github.io/so-yummy-react-fnt",
+  "homepage": "https://hvoarang.github.io/so-yummy-react-fnt/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
